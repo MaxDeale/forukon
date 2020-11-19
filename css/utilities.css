@@ -164,3 +164,21 @@
 .xl {
   font-size: 4rem;
 }
+
+/* ALERT */
+
+.alert {
+  background-color: var(--grey);
+  padding: 4rem;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.alert i {
+  margin-right: 10px;
+}
+
+.alert-success {
+  background-color: rgb(65, 192, 65);
+  color: white;
+}
